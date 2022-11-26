@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1"
+  },
+  "name": "cosmos-mongo-node-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoshii/cosmos-mongo-node-sample.git"
+  },
+  "author": "Shogo Hoshii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoshii/cosmos-mongo-node-sample/issues"
+  },
+  "homepage": "https://github.com/shoshii/cosmos-mongo-node-sample#readme",
+  "description": ""
+}
